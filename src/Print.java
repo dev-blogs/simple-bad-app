@@ -10,6 +10,6 @@ public class Print {
     }   
   
     public void showSquare() {
-        System.out.println("Square of " + this.figure.getName() + " is " + this.figure.square());
+        System.out.println("TEST Square of " + this.figure.getName() + " is " + this.figure.square());
     }
 }
