@@ -1,4 +1,4 @@
-package com.component.figure;
+package com.devblogs.component.figure;
   
 public abstract class Figure {
     private String name;

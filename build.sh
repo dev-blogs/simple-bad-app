@@ -10,7 +10,7 @@ fi
 mkdir $PATH_TO_BUILD/build
  
 # Компилируем проект в каталог build
-javac -d build src/*.java
+javac -d build $(find src/* | grep .java)
  
 # Выполняем приложение
-java -cp .:build com.execute.Execute
+java -cp .:build com.devblogs.execute.Execute

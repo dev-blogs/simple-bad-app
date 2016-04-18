@@ -1,4 +1,4 @@
-package com.component.figure;
+package com.devblogs.component.figure;
   
 public class Rectangle extends Figure {
     private int width;

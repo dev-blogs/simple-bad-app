@@ -1,8 +1,8 @@
-package com.execute;
+package com.devblogs.execute;
  
-import com.component.Print;
-import com.component.figure.Circle;
-import com.component.figure.Rectangle;
+import com.devblogs.component.Print;
+import com.devblogs.component.figure.Circle;
+import com.devblogs.component.figure.Rectangle;
  
 public class Execute {
     public static void main(String [] args) {

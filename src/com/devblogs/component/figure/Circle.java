@@ -1,4 +1,4 @@
-package com.component.figure;
+package com.devblogs.component.figure;
   
 public class Circle extends Figure {
     private int radius;
